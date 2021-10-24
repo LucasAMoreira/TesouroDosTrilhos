@@ -1,7 +1,9 @@
 # TesouroDosTrilhos
-Website parte do projeto Tesouro dos trilhos, para a hackathon CPTM 2021
+Website parte do projeto Tesouro dos trilhos, para a hackathon CPTM 2021.
 
-Projeto Tesouro dos Trilhos Tem como objetivo levar informações aos passageiros sobre o entorno das estações atuais e futuras como pontos turísticos, lugares históricos e emblemáticos, parques, teatros entre outros, criando uma conexão entre a cidade e a estação, trazendo uma nova visão sobre a viagem sobre os trilhos.
+O projeto tem como objetivo levar informações aos passageiros sobre o entorno das estações atuais e futuras como pontos turísticos, lugares históricos e emblemáticos, parques, teatros entre outros, criando uma conexão entre a cidade e a estação, trazendo uma nova visão sobre a viagem sobre os trilhos.
+
+Neste repositório temos um protótipo do front-end do site, junto com o uso do IBM Watson.
 
 ## Dependência
 
