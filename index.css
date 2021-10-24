@@ -1,0 +1,20 @@
+.imagem{
+	/* Foto de Marcos Araujo no Pexels */
+	background-image:url("cptm.jpg");
+	height:100%;
+	color:white;
+}
+
+.navegacao{
+	background-color:#c6ffae;
+	color:#008036;	
+}
+
+.opcao{
+	background-color:#c6ffae;
+	color:#008036;	
+	margin:2pt;
+	
+}
+
+
